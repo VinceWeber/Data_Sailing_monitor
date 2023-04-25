@@ -7,7 +7,7 @@ This personnal project was dedicated, to improve my knowledge of sailing data, a
 - Wind, speed and direction: True, Apparent and Geographic wind + store history of last 30 min.
 - Current
 - Ratio between boat speed and theoritical speed according to wheather conditions
-- 4 - Create my own polar (theoriticalspeed) and record boat settings.
+4- Create my own polar (theoriticalspeed) and record boat settings.
 
 
 # Table of contents
