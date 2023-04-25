@@ -1,12 +1,13 @@
 # POHODA PERF
 This personnal project was dedicated, to improve my knowledge of sailing data, applied in regatta : 
-	1- To create a BUS software of sailing data (GPD, wind, autopilot, Sea) encoded in NMEA183 protocol before transfering data to the navigation software.
-	2- Correct data sensors if needed (for example to perform calibration).
-	3- Directly compute some data of navigation for example: 
-		- Wind, speed and direction: True, Apparent and Geographic wind + store history of last 30 min.
-		- Current
-		- Ratio between boat speed and theoritical speed according to wheather conditions
-	4 - Create my own polar (theoriticalspeed) and record boat settings.
+
+### 1- To create a BUS software of sailing data (GPD, wind, autopilot, Sea) encoded in NMEA183 protocol before transfering data to the navigation software.
+### 2- Correct data sensors if needed (for example to perform calibration).
+### 3- Directly compute some data of navigation for example: 
+#### - Wind, speed and direction: True, Apparent and Geographic wind + store history of last 30 min.
+##### - Current
+##### - Ratio between boat speed and theoritical speed according to wheather conditions
+####- 4 - Create my own polar (theoriticalspeed) and record boat settings.
 
 
 # Table of contents
