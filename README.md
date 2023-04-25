@@ -32,20 +32,20 @@ This personnal project was dedicated, to improve my knowledge of sailing data, a
 - Bus vers com1 : if you want to send data to others devices (software / autopilot )
 - some time parameters of the program
 			
-	![image]('image path _ Main Form')
+	![image](https://github.com/VinceWeber/Data_Sailing_monitor/blob/main/Screenshots/Main%20window.png)
 			
 #### A second form to read data :
 - From sensors (on the left)
 - Computed by the software (on the right of the form).
 	
-	![image]('image path _ valeurs ')
+	![image](https://github.com/VinceWeber/Data_Sailing_monitor/blob/main/Screenshots/Main%20window.png)
 	
 #### A third form to record data in a text file :
 - Boat Settings has to be filled manually on the form
 - Boat navigation values are given by calculus.
 - Informations are stored in a text file, when button save is pressed.
 	
-	![image]('image path _ record ')
+	![image](https://github.com/VinceWeber/Data_Sailing_monitor/blob/main/Screenshots/Main%20window.png)
 
 
 # Recommended configurations
