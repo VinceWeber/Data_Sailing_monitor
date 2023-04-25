@@ -57,5 +57,5 @@ Was working on windows XP, with framework .net 4.0
 # Project status
 [(Back to top)](#table-of-contents)
 
-   Project is no more active since 2011, since QTVLM software became well known.
+   Project is no more active since 2011, since QTVLM software became well known, see ![link](meltemus.com)
 
