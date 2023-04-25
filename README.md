@@ -58,4 +58,5 @@ This personnal project was dedicated, to improve my knowledge of sailing data, a
 [(Back to top)](#table-of-contents)
 
     Project is no more active since 2011, since QTVLM software became well known.
+    meltemus.com
 
